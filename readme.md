@@ -78,12 +78,11 @@ Our mixed data fine-tuning paradigm also achieves notable performance enhancemen
 If you find this repository helpful for your project, please consider citing our work:
 
 ```
-@article{sun2026rethinking,
+@inproceedings{sun2026rethinking,
   title={Rethinking UMM Visual Generation: Masked Modeling for Efficient Image-Only Pre-training},
   author={Sun, Peng and Xie, Jun and Lin, Tao},
-  journal={arXiv preprint arXiv:2603.16139},
-  year={2026},
-  url={https://arxiv.org/abs/2603.16139}
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2026}
 }
 ```
 
